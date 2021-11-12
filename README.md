@@ -1,2 +1,3 @@
 # Logger
- a console log like notebook android app in android-java  
+ a simple logging-like notebook android app in java  
+in this app you can add tags , data & time , location ... alongside notes  
