@@ -1,2 +1,2 @@
 # Logger
- a notebook-like android app that writes notes like logs  
+ a console log like notebook android app in android-java  
